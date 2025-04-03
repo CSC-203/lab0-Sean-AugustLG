@@ -6,7 +6,7 @@ public class Lab00
       String y = "hello";
       double z = 9.8;
 
-      System.out.println("x: " + x + ", y: " + y + ", z: " + z);
+      System.out.println("x: " + x + ", y: " + y + ", z " + z);
 
       int[] nums = new int[4];
       nums[0] = 3;
